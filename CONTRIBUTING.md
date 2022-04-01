@@ -1,3 +1,4 @@
+# A dummy change!
 # Contributing
 
 [fork]: https://github.com/gitgitgadget/gitgitgadget/fork
